@@ -7,4 +7,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slackerkids&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{slackerkids}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
